@@ -254,10 +254,6 @@ If you found this repository helpful:
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
